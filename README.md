@@ -1,7 +1,7 @@
 ## Hi, I'm William Silva :call_me_hand:
 <a href='https://www.linkedin.com/in/william-silva-aa5692119/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/WilliamSf/WilliamSf/main/assets/linkedin.svg" height='18px'/></a>
 <a href='mailto:williaamsf@gmail.com'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/WilliamSf/WilliamSf/main/assets/mail.svg" height='18px'/></a>
-<br/>
+<br/><br/>
 I am a full stack developer and like to venture into design, ux and ui.
 ## More About Me
 - :office: &nbsp; I’m currently working at **Rubeus**
