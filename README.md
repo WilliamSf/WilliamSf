@@ -46,7 +46,6 @@ I am a full stack developer and like to venture into design, ux and ui.
   </a>
   <br/>
 </details>
-
 <p align="right">
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=WilliamSf/WilliamSf)
+  <img src="https://visitor-badge.glitch.me/badge?page_id=WilliamSf/WilliamSf"/>
 </p>
