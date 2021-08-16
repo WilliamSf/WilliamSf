@@ -12,14 +12,14 @@ I am a full stack developer who likes to venture into design, ux.
 ## Languages and Tools
 
 <p align="left">
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react_ts.svg" alt="react js" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/angular.svg" alt="angular" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/html.svg" alt="html" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="sass" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/css.svg" alt="css" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/typescript.svg" alt="typescript" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/react.svg" alt="react" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/react_ts.svg" alt="react js" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/angular.svg" alt="angular" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/html.svg" alt="html" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/sass.svg" alt="sass" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/css.svg" alt="css" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/javascript.svg" alt="javascript" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/typescript.svg" alt="typescript" width="25" height="25" />
 </p>
 
 <p align="left">
