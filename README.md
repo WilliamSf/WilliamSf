@@ -23,8 +23,8 @@ I am a full stack developer who likes to venture into design, ux.
 </p>
 
 <p align="left">
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/php.svg" alt="php" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/laravel.svg" alt="laravel" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/php.svg" alt="php" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/laravel.svg" alt="laravel" width="25" height="25" />
 </p>
 
 <p align="left">
