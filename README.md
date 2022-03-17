@@ -4,7 +4,7 @@
 <br/><br/>
 I am a full stack developer who likes to venture into design, ux.
 ## More About Me
-- :office: &nbsp; I’m currently working at **Rubeus**
+- :office: &nbsp; I’m currently working at **Raro Labs**
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/14M6XwsQxW0Rs_OuK5I_WHI9TERdCmP9f/view?usp=sharing)
 - :video_game: &nbsp; In the free time I play some FPS - [Steam](https://steamcommunity.com/profiles/76561198133754364/)
 
